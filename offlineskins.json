@@ -3,6 +3,6 @@
   "useCrafatar": false,
   "useCustomServer": false,
   "useCustomServer2": true,
-  "hostCustomServer2Skin": "https://raw.githubusercontent.com/64-Tesseract/mc-skin-server/master/skins/%name%.png",
+  "hostCustomServer2Skin": "https://github.com/GoblinoidGuy/SkinDepot/blob/5eb41b13b7a5605a3d437c28a73caf1b6eeeb182/skins/Goblin.png",
   "hostCustomServer2Cape": "https://raw.githubusercontent.com/64-Tesseract/mc-skin-server/master/capes/%name%.png"
 }
